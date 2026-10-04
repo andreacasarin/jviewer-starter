@@ -1,1 +1,5 @@
 .git
+*.jnlp
+*.jar
+*.class
+__pycache__
